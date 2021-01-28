@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Gen&#39;s D&amp;D World</title>
-    <link>https://dnd.poshbeast.com/</link>
-    <description>Recent content on Gen&#39;s D&amp;D World</description>
+    <title>Spells on Gen&#39;s D&amp;D World</title>
+    <link>https://dnd.poshbeast.com/spells/</link>
+    <description>Recent content in Spells on Gen&#39;s D&amp;D World</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Thu, 28 Jan 2021 21:38:57 +0100</lastBuildDate><atom:link href="https://dnd.poshbeast.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 Jan 2021 21:38:57 +0100</lastBuildDate><atom:link href="https://dnd.poshbeast.com/spells/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Magic Missle</title>
       <link>https://dnd.poshbeast.com/spells/magic-missles/</link>
@@ -17,15 +17,6 @@
       <description>1st level Evocation
 Casting Time: 1 action Range: 120 feet Components: V S Duration: Instantaneous Classes: Sorcerer, Wizard
 You create three glowing darts of magical force. Each dart hits a creature of your choice that you can see within range. A dart deals 1d4 + 1 force damage to its target. The darts all strike simultaneously, and you can direct them to hit one creature or several. At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, the spell creates one more dart for each slot above 1st.</description>
-    </item>
-    
-    <item>
-      <title>Hello World</title>
-      <link>https://dnd.poshbeast.com/posts/hello-world/</link>
-      <pubDate>Thu, 28 Jan 2021 19:38:47 +0100</pubDate>
-      
-      <guid>https://dnd.poshbeast.com/posts/hello-world/</guid>
-      <description>Fietsband </description>
     </item>
     
   </channel>
